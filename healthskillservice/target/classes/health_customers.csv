@@ -1,0 +1,6 @@
+id,postcode,age,gender,has_provider,has_children,marital_status,cover_type
+43,2281,61,female,1,0,single,combined
+44,6536,36,female,0,0,married,combined
+45,3099,48,male,1,1,married,single
+46,4108,19,male,0,0,single,single
+47,1001,38,female,1,1,married,combined
